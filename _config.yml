@@ -4,23 +4,21 @@
 # Site settings
 title: Nathan Robert Chan
 description: |
-  Another fine responsive
-  site template freebie
-  crafted by [HTML5 UP](http://html5up.net)
+  Graduate Student | Exploring Life
 owner: Nathan Robert Chan
 first_published: 2018
 email: nathanrobert.chan@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nathanchan13.github.io/" # the base hostname & protocol for your site
 social:
-  twitter: https://twitter.com/<username>
-  github: https://github.com/<username>
-  linkedin-square: https://linkedin.com/in/<username>
-  facebook-official: https://facebook.com/<username>
-  google-plus-square: https://plus.google.com/u/0/+<username>
+  #twitter: https://twitter.com/<username>
+  github: https://github.com/nathanchan13
+  linkedin-square: https://www.linkedin.com/in/nathanrobert-chan/
+  #facebook-official: https://facebook.com/<username>
+  #google-plus-square: https://plus.google.com/u/0/+<username>
   #email: /contact/
   #flickr:
-  #instagram:
+  instagram: httpes://instagram.com
   #youtube-square:
   #spotify:
   #stack-overflow:
